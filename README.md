@@ -2,7 +2,7 @@
 
 ### How to run the program
 ```
-dart <filename>.dart
+dart run <filename>.dart
 ```
 ### List Of Contents
 - [x] basic language
