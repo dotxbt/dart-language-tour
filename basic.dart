@@ -1,5 +1,15 @@
 import 'dart:io';
 
+void main() {
+  helloDart();
+  variableDart();
+  controlFlow(1977);
+  functionInDart();
+  classExample();
+  asyncExample();
+  exceptionExample();
+}
+
 // hello function
 void helloDart() {
   print('Hello, World!');

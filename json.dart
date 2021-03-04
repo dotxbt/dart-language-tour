@@ -16,7 +16,7 @@ class User {
       };
 }
 
-void jsonExample() {
+void main() {
   String jsonString = "{\"name\": \"Sabituddin Bigbang\",\"email\": \"dotxbt@gmail.com\"}";
   var userMap = jsonDecode(jsonString);
   var user = User.fromJson(userMap);
